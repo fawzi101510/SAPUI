@@ -1,0 +1,19 @@
+{
+    "dataBinding": {
+        "/webapp/view/Page1.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Dialog1.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/ActionSheet1.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Popover1.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/QuickView1.view.xml": {
+            "entitySet": ""
+        } 
+    }
+}
